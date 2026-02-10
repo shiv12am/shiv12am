@@ -1,0 +1,9 @@
+public class Demo{
+
+public void do Process(){
+
+//my logic is here
+
+}
+
+}
